@@ -1,7 +1,25 @@
-# anissa-blonn-tbii-exam
+## anissa-blonn-tbii-exam
+
+This repository contains my Tech Basics II exam project code.
+
+The helpers.py python script in the help folder contains two definitions that might be handy for you - clearing the widgets and placing a background image.
+
+## Instructions to run my app:
+
+1. Clone my repository
 
 
-#sources
+2. Download the pictures folder with the necessary images
+
+
+3. Change the directory
+
+
+4. Run the code
+
+
+
+## My sources:
 #frame
 #https://www.inf-schule.de/software/gui/entwicklung_tkinter/layout/pack
 #https://stackoverflow.com/questions/48723923/align-a-button-to-the-bottom-using-tkinter
