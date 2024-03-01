@@ -18,7 +18,7 @@ https://github.com/anissabln/anissa-blonn-tbii-exam.git
    
 cd anissa-blonn-tbii-exam
 
-6. Run the code
+5. Run the code
    
 Mac:
 python3 app.py
