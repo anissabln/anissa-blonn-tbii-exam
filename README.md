@@ -4,7 +4,7 @@ This repository contains my Tech Basics II exam project code.
 
 Have you ever wanted to go to a concert but had nobody to go with you? Then here is the solution – the ConcertBuddy app. With this app, you can meet new people, who will attend the same concert as you and share mutual interests with you. 
 
-The helpers.py python script in the help folder contains two definitions that might be handy for you - clearing the widgets and placing a background image.
+The helpers.py python script in the help folder contains two definitions you need to run my app code - clearing the widgets and placing a background image.
 
 ## Instructions to run my app:
 
